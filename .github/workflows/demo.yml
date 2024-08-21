@@ -1,6 +1,6 @@
 ---
-question: Hello, world!
-buttons:
-  - Exit: exit
-mandatory: True
+steps:
+  - name: Print Hello World
+    run: echo "Hello, World!"
 ---
+
