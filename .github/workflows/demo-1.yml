@@ -6,7 +6,7 @@ on:
 
     paths: 
 
-    - 'factorial.py' 
+    - 'factorial1.py' 
 
     - 'lint.py' 
  
